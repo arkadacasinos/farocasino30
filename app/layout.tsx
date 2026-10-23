@@ -106,6 +106,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-[#0b0c0f] dark">
       <head>
+        <meta name="yandex-verification" content="e146d6a145ad5acd" />
         {/* User memory requirement: explicit <head> slot for additional verification / custom meta tags */}
         <link rel="icon" href="/icon.png" sizes="any" />
         <link rel="apple-touch-icon" href="/icon.png" />
