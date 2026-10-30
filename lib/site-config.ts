@@ -1,5 +1,5 @@
-export const REF_URL = 'https://combospark.top/aetf3u2q9u'
-export const SITE_URL = 'https://farocasino30.vercel.app'
+export const REF_URL = 'https://comboyolo.site/aetf3u2q9u'
+export const SITE_URL = 'https://'
 export const SITE_NAME = 'Faro Casino'
 
 export const KEYWORDS = [
